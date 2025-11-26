@@ -10,7 +10,7 @@ Sou **Engenheiro de Dados Sênior** com foco em:
 - Arquiteturas de dados em **AWS** e **Azure**
 - Pipelines escaláveis em **Spark / Databricks / Delta Lake**
 - **Data Quality**, governança e padronização
-- **NLP / embeddings** para classificação de produtos e padronização de marcas
+- **NLP / embeddings** para classificação
 
 Atuo como **tech lead**, ajudando times a construírem soluções robustas, performáticas e alinhadas ao negócio.
 
