@@ -5,7 +5,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Engenheiro de Dados Sênior** com foco em:
+Sou **Engenheiro de Dados** com foco em:
 
 - Arquiteturas de dados em **AWS** e **Azure**
 - Pipelines escaláveis em **Spark / Databricks / Delta Lake**
