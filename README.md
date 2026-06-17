@@ -7,7 +7,7 @@
 
 Sou **Engenheiro de Dados** com foco em:
 
-- Arquiteturas de dados em **AWS** e **Azure**
+- Arquiteturas de dados em **Azure** e **AWS** 
 - Pipelines escaláveis em **Spark / Databricks / Delta Lake**
 - **Data Quality**, governança e padronização
 - **NLP / embeddings** para classificação
